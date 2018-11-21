@@ -1,8 +1,8 @@
 # enterprisesite-common
 
 - [Maintainers](#maintainers)
-- [Installation](#installation)
-- [Running Demo Locally](#Running-Demo-Locally)
+- [Installation](#Installation)
+- [Running Demo Locally](#running-demo-locally)
 
 
 - [Example 1 Heading](###Example%201%20Heading)
