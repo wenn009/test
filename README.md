@@ -2,7 +2,7 @@
 
 - [Maintainers](#maintainers)
 - [Installation](#installation)
-- [Running Demo Locally](#Running-Demo)
+- [Running Demo Locally](#Running-Demo-Locally)
 
 
 - [Example 1 Heading](###Example%201%20Heading)
@@ -46,7 +46,7 @@
 
 5. Click **Publish release**, Done!
 
-## Running-Demo
+## Running Demo Locally
 
 1.  Create a new branch and add your input, then create a pull request to ask others to review it
 2.  After it is approved, squash and merge into master, make a new branch to build the project by running:
