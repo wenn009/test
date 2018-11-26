@@ -272,7 +272,10 @@ For more advance usage, check out [**this**](https://react-tooltip.netlify.com/)
 
 ## Undo a Release
 
-** Be careful when you are doing this!!!! **
+
+## Undo a Release
+
+:exclamation: :exclamation: Be careful when you are doing this !!!  Always confirm with someone in the webteam :exclamation: :exclamation:
 1.  following 'Deleting a release' on https://help.github.com/articles/editing-and-deleting-releases/
 2.  to delete the local and remote tag
     ```
